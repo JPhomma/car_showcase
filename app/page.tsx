@@ -1,0 +1,11 @@
+import Image from 'next/image'
+import { Hero } from './components/index';
+import { CustomButton } from './components/index';
+
+export default function Home() {
+  return (
+    <main className="overflow-hidden">
+      <Hero />
+    </main>
+  )
+}
