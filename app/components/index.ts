@@ -1,5 +1,5 @@
 import Hero from "./Hero";
-import CustomButton from "./CustomButton";
+import CustomCarButton from "./CustomCarButton";
 import Navbar from "./Navbar";
 import Footer from "./Footer";
 import SearchBar from "./SearchBar";
@@ -9,11 +9,11 @@ import CarCard from "./CarCard";
 
 export {
     Hero,
-    CustomButton,
+    CustomCarButton,
     Navbar,
     Footer,
     SearchBar,
     CustomFilter,
     SearchManufacturer,
-    CarCard
+    CarCard,
 }
